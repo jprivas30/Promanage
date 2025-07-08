@@ -44,7 +44,7 @@ El sistema está dividido en los siguientes componentes:
 
 ![alt text](images/ArqPromanage.jpeg)
 
-- 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 - Java 21 / Spring Boot / Spring Security
 - PostgreSQL / Amazon Aurora
