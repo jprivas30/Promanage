@@ -1,0 +1,52 @@
+# === General ===
+*.log
+*.tmp
+*.swp
+*.bak
+.DS_Store
+.env
+.env.*
+
+# === Java / Spring Boot ===
+target/
+*.class
+*.jar
+*.war
+*.iml
+*.hprof
+*.pid
+*.gz
+
+# === Maven ===
+.mvn/
+.settings/
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# === Eclipse ===
+.classpath
+.project
+.settings/
+
+# === VSCode ===
+.vscode/
+
+# === OS Files ===
+Thumbs.db
+.DS_Store
+
+# === Docker ===
+*.tar
+docker-compose.override.yml
+
+# === Test / coverage ===
+coverage/
+*.lcov
+*.coverage
+
+# === Local dev artifacts ===
+*.db
+*.sqlite
+*.local
