@@ -60,3 +60,7 @@ El sistema está dividido en los siguientes componentes:
 ### Build Docker Image
 
 ![alt text](images/buildDockerCompose.png)
+
+### Link del Informe del Proyecto:
+
+- https://docs.google.com/document/d/1K_rDfF6d_7QkFHfQhe5AFTHy5Ot0zfQgpfn-KD7qURA/edit?hl=es&tab=t.0
